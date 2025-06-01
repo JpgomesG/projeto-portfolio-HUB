@@ -5,4 +5,4 @@ Este é o repositório do projeto PortfolioHUB.
 
 Acompanhe os principais eventos, marcos e prazos do projeto no meu calendário público:
 
-[Acessar Calendário do Projeto no Google Calendar](...)
+[Acessar Calendário do Projeto no Google Calendar](https://calendar.google.com/calendar/u/0/r/week)
